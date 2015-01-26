@@ -1,4 +1,11 @@
-coursera-dl
+coursera-dl (Chinese Opt)
+
+本版本解决一下两个问题。
+原始版本在下载包含中文视频材料时会出现无法创建文件夹的exception
+原始版本默认下载网页中的字幕，但是有些课程实际上有中文字幕，只是没有贴到网页上，这样就无法下载到这些字幕。
+
+===========
+Following instruction was copy from original site
 ===========
 
 A python package for archiving content from coursera.org (videos,
