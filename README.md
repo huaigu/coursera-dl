@@ -1,8 +1,7 @@
 coursera-dl (Chinese Opt)
 
 本版本解决以下两个问题。
-原始版本在下载包含中文视频材料时会出现无法创建文件夹的exception
-原始版本默认下载网页中的字幕，但是有些课程实际上有中文字幕，只是没有贴到网页上，这样就无法下载到这些字幕。
+原始版本在下载中文课程时候会导致创建文件夹异常，无法下载。
 
 ===========
 Following instruction was copy from original site
